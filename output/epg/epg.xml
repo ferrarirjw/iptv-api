@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260606230139 +0800">
+<tv date="20260607114743 +0800">
 	<channel id="优漫卡通">
 		<display-name lang="zh">优漫卡通</display-name>
 	</channel>
@@ -663,9 +663,6 @@
 	<programme channel="优漫卡通" start="20260608010000 +0800" stop="20260608050000 +0800">
 		<title lang="zh">盒子联盟之工程车小队</title>
 	</programme>
-	<programme channel="优漫卡通" start="20260608010000 +0800" stop="20260608050000 +0800">
-		<title lang="zh">盒子联盟之工程车小队</title>
-	</programme>
 	<programme channel="优漫卡通" start="20260608050000 +0800" stop="20260608051500 +0800">
 		<title lang="zh">开心超人联盟之勇敢之城</title>
 	</programme>
@@ -704,6 +701,9 @@
 	</programme>
 	<programme channel="优漫卡通" start="20260608125500 +0800" stop="20260608131000 +0800">
 		<title lang="zh">开心超人联盟之勇敢之城</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260608131000 +0800" stop="20260608135500 +0800">
+		<title lang="zh">开心超人联盟之平行时空大冒险</title>
 	</programme>
 	<programme channel="优漫卡通" start="20260608131000 +0800" stop="20260608135500 +0800">
 		<title lang="zh">开心超人联盟之平行时空大冒险</title>
@@ -5197,6 +5197,36 @@
 	<programme channel="动漫秀场" start="20260607150000 +0800" stop="20260608000000 +0800">
 		<title lang="zh">上海我代言(15)</title>
 	</programme>
+	<programme channel="动漫秀场" start="20260608000000 +0800" stop="20260608000800 +0800">
+		<title lang="zh">萌鸡小队Ⅲ(13)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608000800 +0800" stop="20260608001600 +0800">
+		<title lang="zh">萌鸡小队Ⅲ(14)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608001600 +0800" stop="20260608002400 +0800">
+		<title lang="zh">萌鸡小队Ⅲ(15)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608002400 +0800" stop="20260608003200 +0800">
+		<title lang="zh">萌鸡小队Ⅲ(16)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608003200 +0800" stop="20260608004500 +0800">
+		<title lang="zh">百变马丁Ⅶ(19)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608004500 +0800" stop="20260608005800 +0800">
+		<title lang="zh">百变马丁Ⅶ(20)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608005800 +0800" stop="20260608010600 +0800">
+		<title lang="zh">巧虎探索奇妙世界(13)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608010600 +0800" stop="20260608011400 +0800">
+		<title lang="zh">巧虎探索奇妙世界(14)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608011400 +0800" stop="20260608012200 +0800">
+		<title lang="zh">巧虎探索奇妙世界(15)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608012200 +0800" stop="20260608013000 +0800">
+		<title lang="zh">巧虎探索奇妙世界(16)</title>
+	</programme>
 	<programme channel="动漫秀场" start="20260608013000 +0800" stop="20260608013800 +0800">
 		<title lang="zh">巧虎探索奇妙世界(17)</title>
 	</programme>
@@ -5296,129 +5326,6 @@
 	<programme channel="动漫秀场" start="20260608072400 +0800" stop="20260608073600 +0800">
 		<title lang="zh">寻灵大冒险Ⅲ(23)</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260608073600 +0800" stop="20260608074800 +0800">
-		<title lang="zh">寻灵大冒险Ⅲ(24)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608074800 +0800" stop="20260608075900 +0800">
-		<title lang="zh">寻灵大冒险Ⅲ(25)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608075900 +0800" stop="20260608080700 +0800">
-		<title lang="zh">萌鸡小队Ⅲ(5)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608080700 +0800" stop="20260608081500 +0800">
-		<title lang="zh">萌鸡小队Ⅲ(6)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608081500 +0800" stop="20260608082300 +0800">
-		<title lang="zh">萌鸡小队Ⅲ(7)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608082300 +0800" stop="20260608083100 +0800">
-		<title lang="zh">萌鸡小队Ⅲ(8)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608083100 +0800" stop="20260608083200 +0800">
-		<title lang="zh">荧屏直通车(1)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608083200 +0800" stop="20260608084500 +0800">
-		<title lang="zh">百变马丁Ⅶ(15)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608084500 +0800" stop="20260608085800 +0800">
-		<title lang="zh">百变马丁Ⅶ(16)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608085800 +0800" stop="20260608085900 +0800">
-		<title lang="zh">荧屏直通车(1)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608085900 +0800" stop="20260608090400 +0800">
-		<title lang="zh">瑞克和扣扣古诗里的小百科(17)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608090400 +0800" stop="20260608091000 +0800">
-		<title lang="zh">瑞克和扣扣古诗里的小百科(18)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608091000 +0800" stop="20260608091500 +0800">
-		<title lang="zh">瑞克和扣扣古诗里的小百科(19)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608091500 +0800" stop="20260608092000 +0800">
-		<title lang="zh">瑞克和扣扣古诗里的小百科(20)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608092000 +0800" stop="20260608092800 +0800">
-		<title lang="zh">巧虎探索奇妙世界(1)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608092800 +0800" stop="20260608093600 +0800">
-		<title lang="zh">巧虎探索奇妙世界(2)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608093600 +0800" stop="20260608094400 +0800">
-		<title lang="zh">巧虎探索奇妙世界(3)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608094400 +0800" stop="20260608095200 +0800">
-		<title lang="zh">巧虎探索奇妙世界(4)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608095200 +0800" stop="20260608095900 +0800">
-		<title lang="zh">巧虎探索奇妙世界(5)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608095900 +0800" stop="20260608100000 +0800">
-		<title lang="zh">荧屏直通车(1)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608100000 +0800" stop="20260608101500 +0800">
-		<title lang="zh">喜羊羊与灰太狼之奇幻天空岛(45)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608101500 +0800" stop="20260608103000 +0800">
-		<title lang="zh">喜羊羊与灰太狼之奇幻天空岛(46)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608103000 +0800" stop="20260608104500 +0800">
-		<title lang="zh">喜羊羊与灰太狼之奇幻天空岛(47)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608104500 +0800" stop="20260608110000 +0800">
-		<title lang="zh">喜羊羊与灰太狼之奇幻天空岛(48)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608110000 +0800" stop="20260608110100 +0800">
-		<title lang="zh">荧屏直通车(1)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608110100 +0800" stop="20260608111300 +0800">
-		<title lang="zh">寻灵大冒险Ⅲ(16)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608111300 +0800" stop="20260608112500 +0800">
-		<title lang="zh">寻灵大冒险Ⅲ(17)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608112500 +0800" stop="20260608113600 +0800">
-		<title lang="zh">寻灵大冒险Ⅲ(18)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608113600 +0800" stop="20260608114800 +0800">
-		<title lang="zh">寻灵大冒险Ⅲ(19)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608114800 +0800" stop="20260608115900 +0800">
-		<title lang="zh">寻灵大冒险Ⅲ(20)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608115900 +0800" stop="20260608120100 +0800">
-		<title lang="zh">荧屏直通车(1)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608120100 +0800" stop="20260608120900 +0800">
-		<title lang="zh">萌鸡小队Ⅲ(9)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608120900 +0800" stop="20260608121700 +0800">
-		<title lang="zh">萌鸡小队Ⅲ(10)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608121700 +0800" stop="20260608122500 +0800">
-		<title lang="zh">萌鸡小队Ⅲ(11)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608122500 +0800" stop="20260608123300 +0800">
-		<title lang="zh">萌鸡小队Ⅲ(12)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608123300 +0800" stop="20260608124600 +0800">
-		<title lang="zh">百变马丁Ⅶ(17)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608124600 +0800" stop="20260608125900 +0800">
-		<title lang="zh">百变马丁Ⅶ(18)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608125900 +0800" stop="20260608130100 +0800">
-		<title lang="zh">荧屏直通车(1)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608130100 +0800" stop="20260608130900 +0800">
-		<title lang="zh">巧虎探索奇妙世界(6)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608130900 +0800" stop="20260608131700 +0800">
-		<title lang="zh">巧虎探索奇妙世界(7)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260608131700 +0800" stop="20260608132500 +0800">
-		<title lang="zh">巧虎探索奇妙世界(8)</title>
-	</programme>
 	<programme channel="动漫秀场" start="20260608132500 +0800" stop="20260608133300 +0800">
 		<title lang="zh">巧虎探索奇妙世界(9)</title>
 	</programme>
@@ -5496,6 +5403,102 @@
 	</programme>
 	<programme channel="动漫秀场" start="20260608172400 +0800" stop="20260608173200 +0800">
 		<title lang="zh">巧虎探索奇妙世界(23)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608173200 +0800" stop="20260608174000 +0800">
+		<title lang="zh">巧虎探索奇妙世界(24)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608174000 +0800" stop="20260608174800 +0800">
+		<title lang="zh">巧虎探索奇妙世界(25)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608174800 +0800" stop="20260608175800 +0800">
+		<title lang="zh">巧虎探索奇妙世界(26)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608175800 +0800" stop="20260608180000 +0800">
+		<title lang="zh">少儿动画精彩片段(30)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608180000 +0800" stop="20260608181500 +0800">
+		<title lang="zh">喜羊羊与灰太狼之奇幻天空岛(57)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608181500 +0800" stop="20260608183000 +0800">
+		<title lang="zh">喜羊羊与灰太狼之奇幻天空岛(58)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608183000 +0800" stop="20260608184500 +0800">
+		<title lang="zh">喜羊羊与灰太狼之奇幻天空岛(59)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608184500 +0800" stop="20260608190000 +0800">
+		<title lang="zh">喜羊羊与灰太狼之奇幻天空岛(60)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608190000 +0800" stop="20260608192300 +0800">
+		<title lang="zh">无敌极光侠(3)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608192300 +0800" stop="20260608194500 +0800">
+		<title lang="zh">无敌极光侠(4)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608194500 +0800" stop="20260608201300 +0800">
+		<title lang="zh">无敌极光侠(5)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608201300 +0800" stop="20260608202100 +0800">
+		<title lang="zh">萌鸡小队Ⅲ(13)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608202100 +0800" stop="20260608202900 +0800">
+		<title lang="zh">萌鸡小队Ⅲ(14)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608202900 +0800" stop="20260608203700 +0800">
+		<title lang="zh">萌鸡小队Ⅲ(15)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608203700 +0800" stop="20260608204500 +0800">
+		<title lang="zh">萌鸡小队Ⅲ(16)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608204500 +0800" stop="20260608204800 +0800">
+		<title lang="zh">少儿动画精彩片段(34)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608204800 +0800" stop="20260608210100 +0800">
+		<title lang="zh">百变马丁Ⅶ(19)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608210100 +0800" stop="20260608211900 +0800">
+		<title lang="zh">百变马丁Ⅶ(20)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608211900 +0800" stop="20260608212700 +0800">
+		<title lang="zh">巧虎探索奇妙世界(13)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608212700 +0800" stop="20260608213500 +0800">
+		<title lang="zh">巧虎探索奇妙世界(14)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608213500 +0800" stop="20260608214300 +0800">
+		<title lang="zh">巧虎探索奇妙世界(15)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608214300 +0800" stop="20260608215100 +0800">
+		<title lang="zh">巧虎探索奇妙世界(16)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608215100 +0800" stop="20260608215900 +0800">
+		<title lang="zh">巧虎探索奇妙世界(17)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608215900 +0800" stop="20260608220700 +0800">
+		<title lang="zh">巧虎探索奇妙世界(18)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608220700 +0800" stop="20260608221900 +0800">
+		<title lang="zh">巧虎探索奇妙世界(19)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608221900 +0800" stop="20260608223400 +0800">
+		<title lang="zh">喜羊羊与灰太狼之奇幻天空岛(53)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608223400 +0800" stop="20260608224900 +0800">
+		<title lang="zh">喜羊羊与灰太狼之奇幻天空岛(54)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608224900 +0800" stop="20260608230400 +0800">
+		<title lang="zh">喜羊羊与灰太狼之奇幻天空岛(55)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608230400 +0800" stop="20260608231900 +0800">
+		<title lang="zh">喜羊羊与灰太狼之奇幻天空岛(56)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608231900 +0800" stop="20260608232500 +0800">
+		<title lang="zh">少儿动画精彩片段(38)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608232500 +0800" stop="20260608233700 +0800">
+		<title lang="zh">寻灵大冒险Ⅲ(26)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260608233700 +0800" stop="20260609000000 +0800">
+		<title lang="zh">无敌极光侠(1)</title>
 	</programme>
 	<channel id="金鹰卡通">
 		<display-name lang="zh">金鹰卡通</display-name>
@@ -6970,9 +6973,6 @@
 	<programme channel="金鹰卡通" start="20260608000000 +0800" stop="20260608070000 +0800">
 		<title lang="zh">亲亲大D剧场</title>
 	</programme>
-	<programme channel="金鹰卡通" start="20260608000000 +0800" stop="20260608070000 +0800">
-		<title lang="zh">亲亲大D剧场</title>
-	</programme>
 	<programme channel="金鹰卡通" start="20260608070000 +0800" stop="20260608070200 +0800">
 		<title lang="zh">麦咭嗨唱会</title>
 	</programme>
@@ -7044,6 +7044,9 @@
 	</programme>
 	<programme channel="金鹰卡通" start="20260608114600 +0800" stop="20260608120000 +0800">
 		<title lang="zh">喜羊羊与灰太狼之狂野新宇宙(18)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260608120000 +0800" stop="20260608135500 +0800">
+		<title lang="zh">叽哩咕噜午间剧场</title>
 	</programme>
 	<programme channel="金鹰卡通" start="20260608120000 +0800" stop="20260608135500 +0800">
 		<title lang="zh">叽哩咕噜午间剧场</title>
@@ -7158,6 +7161,78 @@
 	</programme>
 	<programme channel="金鹰卡通" start="20260609000000 +0800" stop="20260609070000 +0800">
 		<title lang="zh">超级飞侠ⅩⅩ</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609070000 +0800" stop="20260609070200 +0800">
+		<title lang="zh">麦咭嗨唱会</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609070200 +0800" stop="20260609071300 +0800">
+		<title lang="zh">百变校巴ⅩⅦ(6)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609071300 +0800" stop="20260609072500 +0800">
+		<title lang="zh">百变校巴ⅩⅦ(7)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609072500 +0800" stop="20260609073600 +0800">
+		<title lang="zh">百变校巴ⅩⅦ(8)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609073600 +0800" stop="20260609074800 +0800">
+		<title lang="zh">百变校巴ⅩⅦ(9)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609074800 +0800" stop="20260609080000 +0800">
+		<title lang="zh">百变校巴ⅩⅦ(10)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609080000 +0800" stop="20260609081300 +0800">
+		<title lang="zh">喜羊羊与灰太狼之狂野新宇宙(19)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609081300 +0800" stop="20260609082600 +0800">
+		<title lang="zh">喜羊羊与灰太狼之狂野新宇宙(20)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609082600 +0800" stop="20260609084000 +0800">
+		<title lang="zh">喜羊羊与灰太狼之狂野新宇宙(21)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609084000 +0800" stop="20260609085300 +0800">
+		<title lang="zh">喜羊羊与灰太狼之狂野新宇宙(22)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609085300 +0800" stop="20260609090600 +0800">
+		<title lang="zh">喜羊羊与灰太狼之狂野新宇宙(23)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609090600 +0800" stop="20260609092000 +0800">
+		<title lang="zh">喜羊羊与灰太狼之狂野新宇宙(24)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609092000 +0800" stop="20260609093300 +0800">
+		<title lang="zh">喜羊羊与灰太狼之狂野新宇宙(25)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609093300 +0800" stop="20260609094600 +0800">
+		<title lang="zh">喜羊羊与灰太狼之狂野新宇宙(26)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609094600 +0800" stop="20260609100000 +0800">
+		<title lang="zh">喜羊羊与灰太狼之狂野新宇宙(27)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609100000 +0800" stop="20260609101300 +0800">
+		<title lang="zh">喜羊羊与灰太狼之狂野新宇宙(28)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609101300 +0800" stop="20260609102600 +0800">
+		<title lang="zh">喜羊羊与灰太狼之狂野新宇宙(29)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609102600 +0800" stop="20260609104000 +0800">
+		<title lang="zh">喜羊羊与灰太狼之狂野新宇宙(30)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609104000 +0800" stop="20260609105300 +0800">
+		<title lang="zh">喜羊羊与灰太狼之狂野新宇宙(31)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609105300 +0800" stop="20260609110600 +0800">
+		<title lang="zh">喜羊羊与灰太狼之狂野新宇宙(32)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609110600 +0800" stop="20260609112000 +0800">
+		<title lang="zh">喜羊羊与灰太狼之狂野新宇宙(33)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609112000 +0800" stop="20260609113300 +0800">
+		<title lang="zh">喜羊羊与灰太狼之狂野新宇宙(34)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609113300 +0800" stop="20260609114600 +0800">
+		<title lang="zh">喜羊羊与灰太狼之狂野新宇宙(35)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260609114600 +0800" stop="20260609120000 +0800">
+		<title lang="zh">喜羊羊与灰太狼之狂野新宇宙(36)</title>
 	</programme>
 	<channel id="凤凰香港">
 		<display-name lang="zh">凤凰香港</display-name>

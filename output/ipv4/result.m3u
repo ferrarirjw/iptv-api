@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/ferrarirjw/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🕘️更新时间",2026-06-18 20:51:18
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🕘️更新时间",2026-06-19 07:44:01
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 http://61.221.215.25:8800/hls/47/index.m3u8
@@ -23,6 +23,8 @@ http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extensi
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS亚洲.png" group-title="🌊港·澳·台",TVBS亚洲
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA
+#EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立台湾.png" group-title="🌊港·澳·台",三立台湾
+http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾
 #EXTINF:-1 tvg-name="星卫娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星卫娱乐.png" group-title="🎬电影频道",星卫娱乐
 http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="🎬电影频道",经典电影
@@ -55,6 +57,8 @@ rtmp://220.130.201.73/sat/tv331
 rtmp://60.248.77.83/sat/tv331
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🎬电影频道",东森超视
 rtmp://9hv9.mine.nu/sat/tv331.flv
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🎬电影频道",东森超视
+rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="🪁动画频道",少儿动画
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="🪁动画频道",少儿动画

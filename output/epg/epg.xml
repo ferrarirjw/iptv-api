@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260620230507 +0800">
+<tv date="20260621121117 +0800">
 	<channel id="优漫卡通">
 		<display-name lang="zh">优漫卡通</display-name>
 	</channel>
@@ -690,9 +690,6 @@
 	<programme channel="优漫卡通" start="20260622010000 +0800" stop="20260622050000 +0800">
 		<title lang="zh">盒子联盟之工程车小队</title>
 	</programme>
-	<programme channel="优漫卡通" start="20260622010000 +0800" stop="20260622050000 +0800">
-		<title lang="zh">盒子联盟之工程车小队</title>
-	</programme>
 	<programme channel="优漫卡通" start="20260622050000 +0800" stop="20260622054000 +0800">
 		<title lang="zh">开心超人联盟之平行时空大冒险</title>
 	</programme>
@@ -728,6 +725,9 @@
 	</programme>
 	<programme channel="优漫卡通" start="20260622123000 +0800" stop="20260622125500 +0800">
 		<title lang="zh">来玩吧</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260622125500 +0800" stop="20260622133500 +0800">
+		<title lang="zh">开心超人联盟之平行时空大冒险</title>
 	</programme>
 	<programme channel="优漫卡通" start="20260622125500 +0800" stop="20260622133500 +0800">
 		<title lang="zh">开心超人联盟之平行时空大冒险</title>
@@ -5209,6 +5209,27 @@
 	<programme channel="动漫秀场" start="20260621195200 +0800" stop="20260622000000 +0800">
 		<title lang="zh">变形联盟之超变战神(30)</title>
 	</programme>
+	<programme channel="动漫秀场" start="20260622000000 +0800" stop="20260622001100 +0800">
+		<title lang="zh">旗旗号巡洋舰Ⅰ(13)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260622001100 +0800" stop="20260622002200 +0800">
+		<title lang="zh">旗旗号巡洋舰Ⅰ(14)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260622002200 +0800" stop="20260622003300 +0800">
+		<title lang="zh">旗旗号巡洋舰Ⅰ(15)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260622003300 +0800" stop="20260622004600 +0800">
+		<title lang="zh">布鲁可战队之危客对决(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260622004600 +0800" stop="20260622005900 +0800">
+		<title lang="zh">布鲁可战队之危客对决(2)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260622005900 +0800" stop="20260622011300 +0800">
+		<title lang="zh">哈喽葡星人(16)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260622011300 +0800" stop="20260622012800 +0800">
+		<title lang="zh">哈喽葡星人(17)</title>
+	</programme>
 	<programme channel="动漫秀场" start="20260622012800 +0800" stop="20260622014200 +0800">
 		<title lang="zh">哈喽葡星人(18)</title>
 	</programme>
@@ -5341,54 +5362,6 @@
 	<programme channel="动漫秀场" start="20260622103500 +0800" stop="20260622104900 +0800">
 		<title lang="zh">冒险小狗帮(18)</title>
 	</programme>
-	<programme channel="动漫秀场" start="20260622104900 +0800" stop="20260622105000 +0800">
-		<title lang="zh">荧屏直通车(1)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260622105000 +0800" stop="20260622110300 +0800">
-		<title lang="zh">变形联盟之超变战神(16)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260622110300 +0800" stop="20260622111600 +0800">
-		<title lang="zh">变形联盟之超变战神(17)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260622111600 +0800" stop="20260622112900 +0800">
-		<title lang="zh">变形联盟之超变战神(18)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260622112900 +0800" stop="20260622114200 +0800">
-		<title lang="zh">变形联盟之超变战神(19)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260622114200 +0800" stop="20260622115500 +0800">
-		<title lang="zh">变形联盟之超变战神(20)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260622115500 +0800" stop="20260622115600 +0800">
-		<title lang="zh">荧屏直通车(1)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260622115600 +0800" stop="20260622120700 +0800">
-		<title lang="zh">旗旗号巡洋舰Ⅰ(10)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260622120700 +0800" stop="20260622121800 +0800">
-		<title lang="zh">旗旗号巡洋舰Ⅰ(11)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260622121800 +0800" stop="20260622122900 +0800">
-		<title lang="zh">旗旗号巡洋舰Ⅰ(12)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260622122900 +0800" stop="20260622123100 +0800">
-		<title lang="zh">荧屏直通车(1)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260622123100 +0800" stop="20260622124400 +0800">
-		<title lang="zh">布鲁可战队之源星石守卫(19)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260622124400 +0800" stop="20260622125600 +0800">
-		<title lang="zh">布鲁可战队之源星石守卫(20)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260622125600 +0800" stop="20260622125800 +0800">
-		<title lang="zh">荧屏直通车(1)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260622125800 +0800" stop="20260622131300 +0800">
-		<title lang="zh">哈喽葡星人(12)</title>
-	</programme>
-	<programme channel="动漫秀场" start="20260622131300 +0800" stop="20260622132800 +0800">
-		<title lang="zh">哈喽葡星人(13)</title>
-	</programme>
 	<programme channel="动漫秀场" start="20260622132800 +0800" stop="20260622134200 +0800">
 		<title lang="zh">哈喽葡星人(14)</title>
 	</programme>
@@ -5508,6 +5481,30 @@
 	</programme>
 	<programme channel="动漫秀场" start="20260622220900 +0800" stop="20260622222300 +0800">
 		<title lang="zh">小王子与土豆仔(3)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260622222300 +0800" stop="20260622223600 +0800">
+		<title lang="zh">小王子与土豆仔(4)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260622223600 +0800" stop="20260622224900 +0800">
+		<title lang="zh">小王子与土豆仔(5)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260622224900 +0800" stop="20260622230200 +0800">
+		<title lang="zh">小王子与土豆仔(6)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260622230200 +0800" stop="20260622230800 +0800">
+		<title lang="zh">少儿动画精彩片段(38)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260622230800 +0800" stop="20260622232100 +0800">
+		<title lang="zh">变形联盟之超变战神(26)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260622232100 +0800" stop="20260622233400 +0800">
+		<title lang="zh">变形联盟之超变战神(27)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260622233400 +0800" stop="20260622234700 +0800">
+		<title lang="zh">变形联盟之超变战神(28)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260622234700 +0800" stop="20260623000000 +0800">
+		<title lang="zh">变形联盟之超变战神(29)</title>
 	</programme>
 	<channel id="金鹰卡通">
 		<display-name lang="zh">金鹰卡通</display-name>
@@ -7219,9 +7216,6 @@
 	<programme channel="金鹰卡通" start="20260622000000 +0800" stop="20260622070000 +0800">
 		<title lang="zh">奇妙萌可Ⅰ</title>
 	</programme>
-	<programme channel="金鹰卡通" start="20260622000000 +0800" stop="20260622070000 +0800">
-		<title lang="zh">奇妙萌可Ⅰ</title>
-	</programme>
 	<programme channel="金鹰卡通" start="20260622070000 +0800" stop="20260622070200 +0800">
 		<title lang="zh">麦咭嗨唱会</title>
 	</programme>
@@ -7287,6 +7281,9 @@
 	</programme>
 	<programme channel="金鹰卡通" start="20260622131600 +0800" stop="20260622132700 +0800">
 		<title lang="zh">23号牛乃唐Ⅰ(8)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260622132700 +0800" stop="20260622133800 +0800">
+		<title lang="zh">23号牛乃唐Ⅰ(9)</title>
 	</programme>
 	<programme channel="金鹰卡通" start="20260622132700 +0800" stop="20260622133800 +0800">
 		<title lang="zh">23号牛乃唐Ⅰ(9)</title>
@@ -7359,6 +7356,75 @@
 	</programme>
 	<programme channel="金鹰卡通" start="20260623000000 +0800" stop="20260623070000 +0800">
 		<title lang="zh">奇妙萌可Ⅱ</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623070000 +0800" stop="20260623070200 +0800">
+		<title lang="zh">麦咭嗨唱会</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623090000 +0800" stop="20260623091300 +0800">
+		<title lang="zh">喜羊羊与灰太狼之古古怪界有古怪</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623091300 +0800" stop="20260623092700 +0800">
+		<title lang="zh">喜羊羊与灰太狼之古古怪界有古怪</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623092700 +0800" stop="20260623094100 +0800">
+		<title lang="zh">喜羊羊与灰太狼之古古怪界有古怪</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623094100 +0800" stop="20260623095500 +0800">
+		<title lang="zh">喜羊羊与灰太狼之古古怪界有古怪</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623095500 +0800" stop="20260623100900 +0800">
+		<title lang="zh">喜羊羊与灰太狼之古古怪界有古怪</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623100900 +0800" stop="20260623102300 +0800">
+		<title lang="zh">喜羊羊与灰太狼之古古怪界有古怪</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623102300 +0800" stop="20260623103600 +0800">
+		<title lang="zh">喜羊羊与灰太狼之古古怪界有古怪</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623103600 +0800" stop="20260623105000 +0800">
+		<title lang="zh">喜羊羊与灰太狼之古古怪界有古怪</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623105000 +0800" stop="20260623110400 +0800">
+		<title lang="zh">喜羊羊与灰太狼之古古怪界有古怪</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623110400 +0800" stop="20260623111800 +0800">
+		<title lang="zh">喜羊羊与灰太狼之古古怪界有古怪</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623111800 +0800" stop="20260623113200 +0800">
+		<title lang="zh">喜羊羊与灰太狼之古古怪界有古怪</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623113200 +0800" stop="20260623114600 +0800">
+		<title lang="zh">喜羊羊与灰太狼之古古怪界有古怪</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623114600 +0800" stop="20260623120000 +0800">
+		<title lang="zh">喜羊羊与灰太狼之古古怪界有古怪</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623120000 +0800" stop="20260623121000 +0800">
+		<title lang="zh">23号牛乃唐Ⅰ(12)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623121000 +0800" stop="20260623122100 +0800">
+		<title lang="zh">23号牛乃唐Ⅰ(13)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623122100 +0800" stop="20260623123200 +0800">
+		<title lang="zh">23号牛乃唐Ⅰ(14)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623123200 +0800" stop="20260623124300 +0800">
+		<title lang="zh">23号牛乃唐Ⅰ(15)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623124300 +0800" stop="20260623125400 +0800">
+		<title lang="zh">23号牛乃唐Ⅰ(16)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623125400 +0800" stop="20260623130500 +0800">
+		<title lang="zh">23号牛乃唐Ⅰ(17)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623130500 +0800" stop="20260623131600 +0800">
+		<title lang="zh">23号牛乃唐Ⅰ(18)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623131600 +0800" stop="20260623132700 +0800">
+		<title lang="zh">23号牛乃唐Ⅰ(19)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20260623132700 +0800" stop="20260623133800 +0800">
+		<title lang="zh">23号牛乃唐Ⅰ(20)</title>
 	</programme>
 	<channel id="凤凰香港">
 		<display-name lang="zh">凤凰香港</display-name>

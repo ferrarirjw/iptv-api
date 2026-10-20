@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20261020005406 +0800">
+<tv date="20261020143823 +0800">
 	<channel id="优漫卡通">
 		<display-name lang="zh">优漫卡通</display-name>
 	</channel>
@@ -642,9 +642,6 @@
 	<programme channel="优漫卡通" start="20261021010000 +0800" stop="20261021050000 +0800">
 		<title lang="zh">糖小兔</title>
 	</programme>
-	<programme channel="优漫卡通" start="20261021010000 +0800" stop="20261021050000 +0800">
-		<title lang="zh">糖小兔</title>
-	</programme>
 	<programme channel="优漫卡通" start="20261021050000 +0800" stop="20261021060000 +0800">
 		<title lang="zh">精灵梦叶罗丽</title>
 	</programme>
@@ -680,6 +677,9 @@
 	</programme>
 	<programme channel="优漫卡通" start="20261021123000 +0800" stop="20261021125500 +0800">
 		<title lang="zh">来玩吧</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261021125500 +0800" stop="20261021135500 +0800">
+		<title lang="zh">精灵梦叶罗丽</title>
 	</programme>
 	<programme channel="优漫卡通" start="20261021125500 +0800" stop="20261021135500 +0800">
 		<title lang="zh">精灵梦叶罗丽</title>
@@ -740,6 +740,39 @@
 	</programme>
 	<programme channel="优漫卡通" start="20261022010000 +0800" stop="20261022050000 +0800">
 		<title lang="zh">糖小兔</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261022050000 +0800" stop="20261022060000 +0800">
+		<title lang="zh">精灵梦叶罗丽</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261022060000 +0800" stop="20261022070000 +0800">
+		<title lang="zh">故宫里的大怪兽</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261022070000 +0800" stop="20261022080000 +0800">
+		<title lang="zh">棉花糖和云朵妈妈暖心回响</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261022080000 +0800" stop="20261022083000 +0800">
+		<title lang="zh">小凉帽之白豚湾奇遇</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261022083000 +0800" stop="20261022090000 +0800">
+		<title lang="zh">海底小纵队</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261022090000 +0800" stop="20261022100000 +0800">
+		<title lang="zh">精灵梦叶罗丽</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261022100000 +0800" stop="20261022110000 +0800">
+		<title lang="zh">故宫里的大怪兽</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261022110000 +0800" stop="20261022120000 +0800">
+		<title lang="zh">棉花糖和云朵妈妈暖心回响</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261022120000 +0800" stop="20261022123000 +0800">
+		<title lang="zh">嘿,托玛</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261022123000 +0800" stop="20261022125500 +0800">
+		<title lang="zh">来玩吧</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261022125500 +0800" stop="20261022135500 +0800">
+		<title lang="zh">精灵梦叶罗丽</title>
 	</programme>
 	<channel id="凤凰中文">
 		<display-name lang="zh">凤凰中文</display-name>
@@ -5811,6 +5844,156 @@
 	<programme channel="动漫秀场" start="20261021204900 +0800" stop="20261022000000 +0800">
 		<title lang="zh">布鲁可战队之危客对决(2)</title>
 	</programme>
+	<programme channel="动漫秀场" start="20261022000000 +0800" stop="20261022001100 +0800">
+		<title lang="zh">旗旗号巡洋舰Ⅱ(20)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022001100 +0800" stop="20261022002200 +0800">
+		<title lang="zh">旗旗号巡洋舰Ⅱ(21)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022002200 +0800" stop="20261022003400 +0800">
+		<title lang="zh">旗旗号巡洋舰Ⅱ(22)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022003400 +0800" stop="20261022004000 +0800">
+		<title lang="zh">少儿动画精彩片段(38)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022004000 +0800" stop="20261022005200 +0800">
+		<title lang="zh">布鲁可战队之危客对决(3)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022005200 +0800" stop="20261022011000 +0800">
+		<title lang="zh">布鲁可战队之危客对决(4)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022011000 +0800" stop="20261022012300 +0800">
+		<title lang="zh">节气小精灵(17)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022012300 +0800" stop="20261022013600 +0800">
+		<title lang="zh">节气小精灵(18)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022013600 +0800" stop="20261022014900 +0800">
+		<title lang="zh">节气小精灵(19)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022014900 +0800" stop="20261022020700 +0800">
+		<title lang="zh">节气小精灵(20)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022020700 +0800" stop="20261022022200 +0800">
+		<title lang="zh">喜羊羊与灰太狼之深海历险记(31)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022022200 +0800" stop="20261022023700 +0800">
+		<title lang="zh">喜羊羊与灰太狼之深海历险记(32)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022023700 +0800" stop="20261022025200 +0800">
+		<title lang="zh">喜羊羊与灰太狼之深海历险记(33)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022025200 +0800" stop="20261022030700 +0800">
+		<title lang="zh">喜羊羊与灰太狼之深海历险记(34)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022030700 +0800" stop="20261022031100 +0800">
+		<title lang="zh">少儿动画精彩片段(25)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022031100 +0800" stop="20261022032300 +0800">
+		<title lang="zh">寻灵大冒险(27)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022032300 +0800" stop="20261022033600 +0800">
+		<title lang="zh">寻灵大冒险(28)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022033600 +0800" stop="20261022034800 +0800">
+		<title lang="zh">寻灵大冒险(29)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022034800 +0800" stop="20261022040000 +0800">
+		<title lang="zh">寻灵大冒险(30)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022040000 +0800" stop="20261022041200 +0800">
+		<title lang="zh">寻灵大冒险(31)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022041200 +0800" stop="20261022041600 +0800">
+		<title lang="zh">少儿动画精彩片段(39)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022041600 +0800" stop="20261022042700 +0800">
+		<title lang="zh">旗旗号巡洋舰Ⅱ(23)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022042700 +0800" stop="20261022043800 +0800">
+		<title lang="zh">旗旗号巡洋舰Ⅱ(24)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022043800 +0800" stop="20261022045000 +0800">
+		<title lang="zh">旗旗号巡洋舰Ⅱ(25)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022045000 +0800" stop="20261022050300 +0800">
+		<title lang="zh">布鲁可战队之危客对决(5)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022050300 +0800" stop="20261022051600 +0800">
+		<title lang="zh">布鲁可战队之危客对决(6)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022051600 +0800" stop="20261022053000 +0800">
+		<title lang="zh">节气小精灵(21)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022053000 +0800" stop="20261022054300 +0800">
+		<title lang="zh">节气小精灵(22)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022054300 +0800" stop="20261022055600 +0800">
+		<title lang="zh">节气小精灵(23)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022055600 +0800" stop="20261022060900 +0800">
+		<title lang="zh">节气小精灵(24)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022060900 +0800" stop="20261022062400 +0800">
+		<title lang="zh">喜羊羊与灰太狼之深海历险记(35)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022062400 +0800" stop="20261022063900 +0800">
+		<title lang="zh">喜羊羊与灰太狼之深海历险记(36)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022063900 +0800" stop="20261022065400 +0800">
+		<title lang="zh">喜羊羊与灰太狼之深海历险记(37)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022065400 +0800" stop="20261022071000 +0800">
+		<title lang="zh">喜羊羊与灰太狼之深海历险记(38)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022071000 +0800" stop="20261022072200 +0800">
+		<title lang="zh">寻灵大冒险(32)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022072200 +0800" stop="20261022073400 +0800">
+		<title lang="zh">寻灵大冒险(33)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022073400 +0800" stop="20261022074600 +0800">
+		<title lang="zh">寻灵大冒险(34)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022074600 +0800" stop="20261022075800 +0800">
+		<title lang="zh">寻灵大冒险(35)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022075800 +0800" stop="20261022081000 +0800">
+		<title lang="zh">寻灵大冒险(36)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022081000 +0800" stop="20261022082100 +0800">
+		<title lang="zh">旗旗号巡洋舰Ⅱ(17)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022082100 +0800" stop="20261022083200 +0800">
+		<title lang="zh">旗旗号巡洋舰Ⅱ(18)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022083200 +0800" stop="20261022084300 +0800">
+		<title lang="zh">旗旗号巡洋舰Ⅱ(19)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022084300 +0800" stop="20261022085600 +0800">
+		<title lang="zh">布鲁可战队之危客对决(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022085600 +0800" stop="20261022091100 +0800">
+		<title lang="zh">布鲁可战队之危客对决(2)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022091100 +0800" stop="20261022092400 +0800">
+		<title lang="zh">节气小精灵(13)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022092400 +0800" stop="20261022093800 +0800">
+		<title lang="zh">节气小精灵(14)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022093800 +0800" stop="20261022095100 +0800">
+		<title lang="zh">节气小精灵(15)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022095100 +0800" stop="20261022100500 +0800">
+		<title lang="zh">节气小精灵(16)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022100500 +0800" stop="20261022102000 +0800">
+		<title lang="zh">喜羊羊与灰太狼之深海历险记(27)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20261022102000 +0800" stop="20261022103500 +0800">
+		<title lang="zh">喜羊羊与灰太狼之深海历险记(28)</title>
+	</programme>
 	<channel id="金鹰卡通">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel>
@@ -8414,5 +8597,134 @@
 	</programme>
 	<programme channel="金鹰卡通" start="20261021185300 +0800" stop="20261022000000 +0800">
 		<title lang="zh">熊出没之神奇宝物2(7)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022070000 +0800" stop="20261022070200 +0800">
+		<title lang="zh">麦咭嗨唱会</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022070200 +0800" stop="20261022071000 +0800">
+		<title lang="zh">啦咘啦哆警长之大战羚羚羊(41)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022071000 +0800" stop="20261022071800 +0800">
+		<title lang="zh">啦咘啦哆警长之大战羚羚羊(42)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022071800 +0800" stop="20261022072600 +0800">
+		<title lang="zh">啦咘啦哆警长之大战羚羚羊(43)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022072600 +0800" stop="20261022073500 +0800">
+		<title lang="zh">啦咘啦哆警长之大战羚羚羊(44)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022073500 +0800" stop="20261022073900 +0800">
+		<title lang="zh">小猪佩奇Ⅷ(11)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022073900 +0800" stop="20261022074300 +0800">
+		<title lang="zh">小猪佩奇Ⅷ(12)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022074300 +0800" stop="20261022074700 +0800">
+		<title lang="zh">小猪佩奇Ⅷ(13)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022074700 +0800" stop="20261022075200 +0800">
+		<title lang="zh">小猪佩奇Ⅷ(14)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022075200 +0800" stop="20261022075600 +0800">
+		<title lang="zh">小猪佩奇Ⅷ(15)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022075600 +0800" stop="20261022080000 +0800">
+		<title lang="zh">小猪佩奇Ⅷ(16)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022080000 +0800" stop="20261022080400 +0800">
+		<title lang="zh">小猪佩奇Ⅷ(17)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022080400 +0800" stop="20261022080900 +0800">
+		<title lang="zh">小猪佩奇Ⅷ(18)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022080900 +0800" stop="20261022081300 +0800">
+		<title lang="zh">小猪佩奇Ⅷ(19)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022081300 +0800" stop="20261022081700 +0800">
+		<title lang="zh">小猪佩奇Ⅷ(20)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022081700 +0800" stop="20261022082100 +0800">
+		<title lang="zh">小猪佩奇Ⅷ(21)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022082100 +0800" stop="20261022082600 +0800">
+		<title lang="zh">小猪佩奇Ⅷ(22)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022082600 +0800" stop="20261022083000 +0800">
+		<title lang="zh">小猪佩奇Ⅷ(23)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022083000 +0800" stop="20261022083400 +0800">
+		<title lang="zh">小猪佩奇Ⅷ(24)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022083400 +0800" stop="20261022083800 +0800">
+		<title lang="zh">小猪佩奇Ⅷ(25)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022083800 +0800" stop="20261022084300 +0800">
+		<title lang="zh">小猪佩奇Ⅷ(26)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022084300 +0800" stop="20261022084700 +0800">
+		<title lang="zh">小猪佩奇Ⅷ(27)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022084700 +0800" stop="20261022085100 +0800">
+		<title lang="zh">小猪佩奇Ⅷ(28)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022085100 +0800" stop="20261022085500 +0800">
+		<title lang="zh">小猪佩奇Ⅷ(29)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022085500 +0800" stop="20261022090000 +0800">
+		<title lang="zh">小猪佩奇Ⅷ(30)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022120000 +0800" stop="20261022120500 +0800">
+		<title lang="zh">萌友请就位(18)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022120500 +0800" stop="20261022121000 +0800">
+		<title lang="zh">小猪佩奇Ⅶ(1)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022121000 +0800" stop="20261022121500 +0800">
+		<title lang="zh">小猪佩奇Ⅶ(2)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022121500 +0800" stop="20261022122000 +0800">
+		<title lang="zh">小猪佩奇Ⅶ(3)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022122000 +0800" stop="20261022122500 +0800">
+		<title lang="zh">小猪佩奇Ⅶ(4)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022122500 +0800" stop="20261022123100 +0800">
+		<title lang="zh">小猪佩奇Ⅶ(5)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022123100 +0800" stop="20261022123600 +0800">
+		<title lang="zh">小猪佩奇Ⅶ(6)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022123600 +0800" stop="20261022124100 +0800">
+		<title lang="zh">小猪佩奇Ⅶ(7)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022124100 +0800" stop="20261022124600 +0800">
+		<title lang="zh">小猪佩奇Ⅶ(8)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022124600 +0800" stop="20261022125100 +0800">
+		<title lang="zh">小猪佩奇Ⅶ(9)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022125100 +0800" stop="20261022125700 +0800">
+		<title lang="zh">小猪佩奇Ⅶ(10)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022125700 +0800" stop="20261022130200 +0800">
+		<title lang="zh">小猪佩奇Ⅶ(11)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022130200 +0800" stop="20261022130700 +0800">
+		<title lang="zh">小猪佩奇Ⅶ(12)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022130700 +0800" stop="20261022131200 +0800">
+		<title lang="zh">小猪佩奇Ⅶ(13)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022131200 +0800" stop="20261022131800 +0800">
+		<title lang="zh">小猪佩奇Ⅶ(14)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022131800 +0800" stop="20261022132300 +0800">
+		<title lang="zh">小猪佩奇Ⅶ(15)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022132300 +0800" stop="20261022132800 +0800">
+		<title lang="zh">小猪佩奇Ⅶ(16)</title>
+	</programme>
+	<programme channel="金鹰卡通" start="20261022132800 +0800" stop="20261022133300 +0800">
+		<title lang="zh">小猪佩奇Ⅶ(17)</title>
 	</programme>
 </tv>
